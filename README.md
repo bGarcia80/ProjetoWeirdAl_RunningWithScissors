@@ -1,97 +1,114 @@
 ## **🎵 Projeto Weird Al — Running With Scissors**
-### Um projeto totalmente novo dedicado ao álbum Running With Scissors, de "Weird Al" Yankovic.
+### Um projeto dedicado ao álbum *Running With Scissors*, de "Weird Al" Yankovic.
 
 ---------------------------------------------------------------------------------------------------------
 
-Este projeto está sendo desenvolvido como uma página dedicada ao álbum, reunindo informações, curiosidades, tracklist e diferentes materiais relacionados a Running With Scissors, lançado originalmente em 29 de junho de 1999.
+Este projeto foi desenvolvido como uma página dedicada ao álbum *Running With Scissors*, reunindo informações, curiosidades, tracklist e diferentes materiais relacionados ao álbum, lançado originalmente em 29 de junho de 1999.
 
-A página ainda está em desenvolvimento e novas informações, elementos visuais e funcionalidades poderão ser adicionados ao longo do tempo.
+Após o período de desenvolvimento e aprimoramento do projeto, a página chegou oficialmente à sua **versão final 1.0**.
+
+A partir desta versão, o projeto é considerado concluído. Futuras alterações serão realizadas apenas de forma pontual, principalmente para corrigir pequenos erros, ajustar detalhes ou melhorar algum elemento específico da página.
 
 ----------------------------------------------------------------------------------------------------------
 
-🌐 Acompanhe o projeto
+🌐 **Projeto final**
 
-Você pode acompanhar a evolução da página através do link:
+Você pode acessar a versão final da página através do link:
 
 https://bgarcia80.github.io/ProjetoWeirdAl_RunningWithScissors/
 
 -----------------------------------------------------------------------------------------------------------
 
-📀 Sobre o projeto
+📀 **Sobre o projeto**
 
-A proposta é criar uma página especial sobre Running With Scissors, explorando diferentes aspectos do álbum, incluindo:
+A proposta foi criar uma página especial sobre *Running With Scissors*, explorando diferentes aspectos do álbum, incluindo:
 
-Informações sobre o álbum;
+- Informações sobre o álbum;
+- História e curiosidades;
+- Tracklist completa;
+- Informações sobre as músicas;
+- Capas e artworks;
+- Diferentes conteúdos relacionados ao álbum.
 
-História e curiosidades;
-
-Tracklist completa;
-
-Informações sobre as músicas;
-
-Capas e artworks;
-
-Outros conteúdos que poderão ser adicionados durante o desenvolvimento.
-
-O projeto é totalmente novo e continuará sendo desenvolvido e aprimorado aos poucos.
+O projeto passou por diversas etapas de desenvolvimento, recebendo novos conteúdos, melhorias visuais e ajustes até chegar à sua versão final.
 
 -----------------------------------------------------------------------------------------------------
 
-🚧 Em desenvolvimento
+✅ **Versão final — 1.0**
 
-Esta página ainda está em construção.
+A versão **1.0** marca a conclusão do desenvolvimento principal do projeto.
 
-Novos conteúdos, ajustes no design e outras funcionalidades poderão ser adicionados conforme o projeto evolui.
+Nesta etapa, a estrutura da página, os conteúdos, informações, elementos visuais e demais componentes planejados foram finalizados.
 
-Portanto, acompanhe a página para conferir as próximas atualizações!
+O projeto não possui mais grandes atualizações de conteúdo ou mudanças estruturais planejadas.
+
+A partir de agora, eventuais modificações serão feitas apenas de maneira pontual, como:
+
+- Correção de pequenos erros;
+- Ajustes de informações;
+- Correções de problemas visuais;
+- Pequenas melhorias de funcionamento;
+- Atualizações necessárias para manter a página funcionando corretamente.
+
+Portanto, a versão **1.0 representa a versão final do projeto**, mas isso não significa que a página nunca mais poderá receber pequenos ajustes.
 
 ----------------------------------------------------------------------------------------------------------
 
-⚠️ Recomendação de visualização
+⚠️ **Recomendação de visualização**
 
-ATENÇÃO: o uso em computadores é recomendado.
+**ATENÇÃO: o uso em computadores é recomendado.**
 
 Para uma melhor experiência e visualização de todos os elementos da página, recomenda-se utilizar o projeto em um computador através do Google Chrome.
 
 ----------------------------------------------------------------------------------------------------------
 
-🛠️ Tecnologias utilizadas
+🛠️ **Tecnologias utilizadas**
 
 O projeto utiliza tecnologias fundamentais do desenvolvimento web:
-- HTML (Estrutura e organização do conteúdo)
-- Git (Controle de versão)
-- GitHub (Hospedagem e gerenciamento do código)
-- GitHub Pages (Publicação da página na internet)
+
+- **HTML** — Estrutura e organização do conteúdo;
+- **Git** — Controle de versão;
+- **GitHub** — Hospedagem e gerenciamento do código;
+- **GitHub Pages** — Publicação da página na internet.
 
 -----------------------------------------------------------------------------------------------------------
 
-👨‍💻 Créditos
-Desenvolvimento
+👨‍💻 **Créditos**
 
-Bruno Garcia
+### Desenvolvimento
 
-Responsável pelo desenvolvimento, organização, design e manutenção do projeto.
+**Bruno Garcia**
 
-🌐 Projeto:
+Responsável pelo desenvolvimento, organização, design, conteúdo e manutenção do projeto.
+
+🌐 **Projeto:**  
 https://bgarcia80.github.io/ProjetoWeirdAl_RunningWithScissors/
 
-🐙 GitHub:
+🐙 **GitHub:**  
 https://github.com/bgarcia80
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-📚 Referências e materiais
+📚 **Referências e materiais**
 
-O projeto utiliza informações, imagens e materiais relacionados a "Weird Al" Yankovic e ao álbum Running With Scissors.
+O projeto utiliza informações, imagens e materiais relacionados a "Weird Al" Yankovic e ao álbum *Running With Scissors*.
 
-Este projeto é não oficial e foi desenvolvido como um projeto independente de fã.
+Este projeto é **não oficial** e foi desenvolvido como um projeto independente de fã.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-⚖️ Aviso
+⚖️ **Aviso**
 
-"Weird Al" Yankovic, Running With Scissors e seus respectivos elementos relacionados são propriedades de seus respectivos detentores de direitos.
+"Weird Al" Yankovic, *Running With Scissors* e seus respectivos elementos relacionados são propriedades de seus respectivos detentores de direitos.
 
 Este projeto não possui vínculo oficial com "Weird Al" Yankovic, sua equipe ou suas gravadoras.
 
-O objetivo deste projeto é exclusivamente educacional, experimental e de portfólio, sem intenção de representar oficialmente o artista ou comercializar seu conteúdo.
+O objetivo deste projeto é exclusivamente **educacional, experimental e de portfólio**, sem intenção de representar oficialmente o artista ou comercializar seu conteúdo.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+🎉 **Projeto concluído!**
+
+Com o lançamento da versão **1.0**, o desenvolvimento principal do **Projeto Weird Al — Running With Scissors** está oficialmente concluído.
+
+Obrigado por acompanhar o desenvolvimento do projeto!
