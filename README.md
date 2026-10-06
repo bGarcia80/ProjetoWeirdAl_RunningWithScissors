@@ -60,6 +60,8 @@ Portanto, a versão **1.0 representa a versão final do projeto**, mas isso não
 
 Para uma melhor experiência e visualização de todos os elementos da página, recomenda-se utilizar o projeto em um computador através do Google Chrome.
 
+Se você não tiver a fonte *"Gill Sans MT"* instalada em seu computador, é recomendada a instalação da fonte.
+
 ----------------------------------------------------------------------------------------------------------
 
 🛠️ **Tecnologias utilizadas**
